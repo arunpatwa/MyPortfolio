@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cef81b5b.css",
+    "main.js": "/static/js/main.29a9fded.js",
+    "static/media/boy.png": "/static/media/boy.d230a45f01089fa5f36e.png",
+    "static/media/resume.pdf": "/static/media/resume.a898b08779a3497cace1.pdf",
+    "static/media/crowdfunding.png": "/static/media/crowdfunding.2ff3fc51ad51b49678b1.png",
+    "static/media/datasummarizer.png": "/static/media/datasummarizer.8a3caefc8beab82cbec6.png",
+    "static/media/glassesimoji.png": "/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/pathfinding.png": "/static/media/pathfinding.7f78bf5d0b6944a3715d.png",
+    "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/code4.png": "/static/media/code4.b5c97360d241b1cee9e2.png",
+    "static/media/react_icon.png": "/static/media/react_icon.4b151946d6b0466a2174.png",
+    "index.html": "/index.html",
+    "main.cef81b5b.css.map": "/static/css/main.cef81b5b.css.map",
+    "main.29a9fded.js.map": "/static/js/main.29a9fded.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cef81b5b.css",
+    "static/js/main.29a9fded.js"
+  ]
+}
